@@ -16,7 +16,7 @@ producten = {
     "Sinaasappel 🍊": 2.0
 }
 
-st.title("🛍️ De Geldwinkel – Niveau 1: Fruitkraam")
+st.title("🛍️ De Geldwinkel – Niveau 1000: Fruitkraam")
 st.write("Welkom! Je hebt €{:.2f} om uit te geven. Wat wil je kopen?".format(st.session_state.geld))
 
 # Winkel interface
